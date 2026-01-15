@@ -6,3 +6,7 @@ print(a)
 
 print("New Branch Demo")
 print("New Branch Demo")
+ 
+s = "geeksforgeeks"
+res = "".join(dict.fromkeys(s))
+print(res)
