@@ -13,3 +13,7 @@ print(res)
  
 
 print ("Hello ")
+
+c=11
+d=12
+print(c+d)
