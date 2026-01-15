@@ -10,3 +10,6 @@ print("New Branch Demo")
 s = "geeksforgeeks"
 res = "".join(dict.fromkeys(s))
 print(res)
+ 
+
+print ("Hello ")
